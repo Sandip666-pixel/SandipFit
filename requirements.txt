@@ -1,5 +1,5 @@
 streamlit
-opencv-python-headless
-numPy
+OpenCV-python-headless
+NumPy
 Pillow
-mediapipe
+media pipe
